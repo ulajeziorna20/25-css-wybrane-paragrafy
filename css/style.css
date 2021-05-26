@@ -4,12 +4,10 @@ p {
     background-color: red;
 }
 
-.blue , 
-.blue ,
 .blue {
     background-color: blue;
 }
 
-#transp {
+.transp {
     opacity: 0.0;
 }
